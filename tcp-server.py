@@ -3,6 +3,8 @@ import threading
 
 bind_ip='0.0.0.0'
 bind_port=9999
+Access_key_id ='AKIAXPF5KZBAMUIISW5T'
+Secret_access_key='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'
 
 server = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 
