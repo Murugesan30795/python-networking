@@ -4,8 +4,8 @@ client=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 host="172.31.43.244"
 #host="www.google.com"
 port=9999
-Access_key_id ='AKIAXPF5KZBAMUIISW5T'
-Secret_access_key='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'
+Access_key_id ='AKIA6GWUVBT2WX4ZOGOW'
+Secret_access_key='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'
 
 client.connect((host,port))
 
